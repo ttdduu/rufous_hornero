@@ -1,4 +1,4 @@
-These are the main modules I developed for processing data, performing statistical tests, visualizations and training siamese neural networks for my MSc thesis in Biology at Universidad de Buenos Aires.
+These are the main modules I developed for processing data, performing statistical tests, visualizations and training siamese neural networks for my MSc thesis in Biology at Universidad de Buenos Aires, in which I was able to sucessfully quantify the capacity of the rufous hornero females to show signatures of individuality in their songs by implementing siamese neural networks on horneros' spectrograms.
 
 *Visualization of cluster quality formed by the embeddings of spectrograms on the latent space of one siamese neural network trained on pairs of spectrograms of 8 different rufous horneros by way of comparison with the clusters formed by the spherical K-Means algorithm on the same data*
 
