@@ -2,7 +2,8 @@ These are the main modules I developed for processing data, performing statistic
 
 *Visualization of cluster quality formed by the embeddings of spectrograms on the latent space of one siamese neural network trained on pairs of spectrograms of 8 different rufous horneros by way of comparison with the clusters formed by the spherical K-Means algorithm on the same data*
 
-https://github.com/ttdduu/rufous_hornero/assets/70667629/80b39e7d-3aea-448e-a497-6d2ef24ee252
+![337493633-80b39e7d-3aea-448e-a497-6d2ef24ee252-ezgif com-gif-maker](https://github.com/ttdduu/rufous_hornero/assets/70667629/3c8ac121-a3ab-482c-9ec5-242225850b92)
+
 
 _Cosine similarity matrix for the net's centers of mass and K-Means' centers_
 
